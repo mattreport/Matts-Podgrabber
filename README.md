@@ -12,7 +12,8 @@ It allows users to select specific episodes from the last 10 listed for a chosen
 
 ## Installation
 1. Ensure Python 3 is installed on your system.
-2. Install the required Python libraries by running:
+2. Install the required Python libraries by running: pip install requests feedparser tqdm
+
 ## How to Operate
 1. Run the script in a terminal or command prompt:
 python matts_podgrabber.py
